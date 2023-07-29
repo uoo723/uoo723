@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning in machine learning & deep learning.
 - 🔭 I'm currently working as a machine learning engineer.
-- 👨‍🎓 I received my M.S. degree in artificial intelligence.
+- 🔥 I'm currently interested in LLM and its application.
 
 ## 👨‍💻 Tech Stack
 
